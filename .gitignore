@@ -1,0 +1,8 @@
+## Google plist
+*GoogleService-Info.plist
+
+## Other
+*.DS_Store
+
+# Swift Package Manager
+.build/
