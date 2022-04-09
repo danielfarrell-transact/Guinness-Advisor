@@ -2,6 +2,11 @@
 
 ![App Screenshots](/screenshots.png)
 
+## Technologies
+- SwiftUI
+- MapKit
+- Firebase Firestore
+
 ## :white_check_mark: App Features
 - Map View with Custom Annotations for Pubs
 - Pub Detail Sheet View
@@ -24,8 +29,3 @@
 - Save Favourite Pubs
 - App Clip for Quick Rating @ Pub
 - Quick Action for Add Rating
-
-## Technologies
-- SwiftUI
-- MapKit
-- Firebase Firestore
